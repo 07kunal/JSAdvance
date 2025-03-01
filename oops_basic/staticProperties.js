@@ -1,0 +1,1 @@
+// Modern JS also offers "static properties", where individual pieces of data are on the class , not on instances.
